@@ -14,7 +14,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdesthh">
   </a> <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerdesthh&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerdesthh" alt="GitHub Streak" /></a>
 </p>
   
 
